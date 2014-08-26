@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# 2014-08-26 v1.0.0
+/print.css
+/logo.gif
+/perfmattersx234dff.js
+http://www.google-analytics.com/analytics.js 
+
+NETWORK:
+
+
+FALLBACK:
+/html/ /offline.html
